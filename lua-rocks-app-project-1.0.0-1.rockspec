@@ -1,5 +1,5 @@
 package = "lua-rocks-app-project"
-version = "1.0"
+version = "1.0.0-1"
 source = {
    url = "https://github.com/rongfengliang/luarocks-packagedemo.git"
 }
